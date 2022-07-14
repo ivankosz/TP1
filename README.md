@@ -1,6 +1,25 @@
 # TP1
 TP1 del curso de Programación Cfp410 Prof. Cristian Giambruni
 
+>*Las funciones en cada etapa están silenciadas, de modo que para accederlas deberá quitar las triples comillas.*
+
+```
+from modulos.mod import *
+"""
+#Parte1
+diccionario_interactivo()
+
+#Parte2
+texto_plano('modo_interactivo.txt')
+
+
+#Parte3
+sys_modo()
+"""
+#Parte4
+nueva_oportunidad()
+```
+
 ## PRIMERA ETAPA.
 ` diccionario_interactivo() `
 
@@ -50,3 +69,4 @@ cerramos los archivos usados.
 
 En caso de quedar alguna palabra fuera del diccionario el programa nos lo informa mediante el contador, que se ha ido modificando segun las comprobaciones pertinentes.
 
+![programacion](https://cryptoshitcompra.com/wp-content/uploads/2022/01/Como-calcular-la-diferencia-horaria-en-Python.jpg)
